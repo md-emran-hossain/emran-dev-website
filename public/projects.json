@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "Medicare",
+        "title": "A Medical Appointment Booking Front End Website",
+        "liveLink": "https://medicare-11.web.app/",
+        "usedTech": [
+            "firebase",
+            "react router dom",
+            "private route",
+            "react JS",
+            "TailWind CSS"
+        ],
+        "description": "A medicare booking related front end website. Anyone cam book an appointment for myself and family member too. Patient can find solution with our doctor. Also can see blogs that's write by our specialist doctor.",
+        "description2": [
+            "Firebase for Login/ register method and authentication.",
+            "Tailwind CSS as CSS Framework.",
+            "React router dom for routing the pages and responsive."
+        ],
+        "description3": [
+            "Tailwind css as css library.",
+            "React router dom for routing multiple pages",
+            "Mobile and Desktop Responsive (semi-responsive)",
+            "Use Firebase for creating login and registration",
+            "Use Private router it will be redirected after login, if you are not logged in you can't go this type of private pages.",
+            "Use royalty free images.",
+            "This is a single page react projects.",
+            "We make dynamic url"
+        ],
+        "img1": "https://i.ibb.co/y0f0LGL/medicare1.png",
+        "img2": "https://i.ibb.co/zx0WK9G/medicare2.png",
+        "img3": "https://i.ibb.co/m5fRtSK/medicare3.png",
+        "img4": "https://i.ibb.co/vLhnKK6/medicare4.png"
+    },
+    {
+        "id": 2,
+        "name": "Burford Woodcraft",
+        "title": "A Wood Handicraft React MERN stack Website",
+        "liveLink": "https://burford-woodcraft.web.app/",
+        "usedTech": [
+            "Material UI",
+            "react router dom",
+            "private route",
+            "react JS",
+            "firebase",
+            "TailWind CSS",
+            "node JS",
+            "Express JS",
+            "heroku",
+            "react rating",
+            "admin route",
+            "headless UI",
+            "cors"
+        ],
+        "description": "A wood handicraft related full stack e-commerce website. Two type of people can create an account. Customer and shop owner or admin. Customer can make order and shop owner can upload new product with require details. Everyone has different type of dashboard for best user experience. A customer can also give review and that show in website.",
+        "description2": [
+            "Firebase for login / register method and authentication, tailwind CSS and Material UI as CSS framework, React router dom for routing the pages and it's responsive",
+            "Uses React Hook Form and makes an admin panel to manage the website. Besides, in Dashboard normal users and admin will see different options.",
+            "For backend it uses Node JS library Express JS, Cors, MongoDB atlas as backend for dynamic data loading and uses react react rating."
+        ],
+        "description3": [
+            "Mongodb atlas as backend for data loading.",
+            "React hook form for all input form",
+            "firebase authentication for creating login and registration",
+            "Different dashboard for customer and shop owner",
+            "Nodejs(Express.js) for server site.",
+            "Material UI and Tailwind css as css library.",
+            "React rating for dynamically adding users feedback"
+        ],
+        "img1": "https://i.ibb.co/B2RK0xn/burford-woodcraft1.png",
+        "img2": "https://i.ibb.co/FKpnQ6g/burford-woodcraft2.png",
+        "img3": "https://i.ibb.co/pnP09Vg/burford-woodcraft3.png",
+        "img4": "https://i.ibb.co/k8mP22h/burford-woodcraft4.png"
+    },
+    {
+        "id": 3,
+        "name": "Great Holidays",
+        "title": "A Travel Planner Agency full stack website",
+        "liveLink": "https://travel-time-world.web.app/",
+        "usedTech": [
+            "TailWind CSS",
+            "react router dom",
+            "private route",
+            "react JS",
+            "node JS",
+            "Express JS",
+            "react rating",
+            "admin route",
+            "firebase",
+            "headless UI",
+            "cors",
+            "heroku"
+        ],
+        "description": "Those people who want to make fun in their life. Those people who want to explore the world. Our website will help them to reach their desire. It's a full stack holiday special website. Website owner can add a new tour destination and tour plan. People who booked a plan they can find their plan in my orders routes. And website owner can see all orders from the people.",
+        "description2": [
+            "It’s a full stack project, Firebase for Login/ register method and authentication, Tailwind CSS as CSS Framework, React router dom for routing the pages and responsive.",
+            "React hook form for all input and or select type fields Node JS (Express JS) for server site. MongoDB atlas as backend for data loading."
+        ],
+        "description3": [
+            "Tailwind Css as CSS library.",
+            "React hook form for all input or select type field.",
+            "Firebase for login and security of password.",
+            "React router dom for routing the pages.",
+            "Mongodb atlas as backend for data loading.",
+            "Nodejs(Express.js) for server site."
+        ],
+        "img1": "https://i.ibb.co/Ct6Q0m5/great-holiday1.png",
+        "img2": "https://i.ibb.co/KLWsdtj/great-holiday2.png",
+        "img3": "https://i.ibb.co/3zcy0Tv/great-holiday3.png",
+        "img4": "https://i.ibb.co/PzdTKMd/great-holiday4.png"
+    }
+]

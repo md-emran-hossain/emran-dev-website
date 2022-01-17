@@ -1,0 +1,32 @@
+.head{
+  transform-origin: bottom center;
+  animation: tossing 3s ease-in-out 0s infinite alternate;
+}
+
+.moving{
+  animation: moving 3s ease-in-out 0s infinite alternate;
+}
+  
+@keyframes tossing {
+  
+  0%{
+    transform: rotate(-3deg);
+  }
+  50%{
+    transform: rotate(3deg);
+  }
+  100%{
+    transform: rotate(-3deg);
+  }
+}
+@keyframes moving {
+  
+  0%, 100% {
+    transform: translateX(-15%);
+    animation-timing-function: cubic-bezier(0.8, 0, 1, 1);
+  }
+  50% {
+    transform: translateX(75%);
+    animation-timing-function: cubic-bezier(0, 0, 0.2, 1);
+  }
+}

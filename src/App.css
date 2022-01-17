@@ -2,6 +2,21 @@
   text-align: center;
 }
 
+.text-mother{
+  font-family: 'Shadows Into Light', cursive;
+}
+.text-patrick-hand{
+  font-family: 'Patrick Hand', cursive;
+}
+.hero{
+  background-image: url("../src/images/bg-lines.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.shadow-custom{
+  text-shadow: 2px 2px #544e0b;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
